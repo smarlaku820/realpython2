@@ -32,10 +32,6 @@ def login():
 			return redirect(url_for('main'))
 	return render_template('login.html', error=error), status_code
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e83af9f66243c585f01627296df4e6c435d67331
 # Python functools replicate existing functions with some arguments already passed in. It also creates new version of the function in a well-documented manner
 def login_required(test):
 	@wraps(test)
