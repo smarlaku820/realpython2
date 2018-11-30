@@ -2,4 +2,6 @@
 
 venv/
 
-
+# ignore these *.py files
+#
+flask-blog/__pycache__/
