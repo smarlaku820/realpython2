@@ -11,6 +11,7 @@ Add on :- https://www.blog.pythonlibrary.org/2016/02/17/python-functools-wraps/
 
 Understanding App and Request Contexts
 https://stackoverflow.com/questions/15083967/when-should-flask-g-be-used
+<<<<<<< HEAD
 
 
 Python Debugging
@@ -18,3 +19,5 @@ URL :-
 https://pyvideo.org/pycon-us-2014/in-depth-pdb.html
 https://www.youtube.com/watch?v=bZZTeKPRSLQ
 https://www.safaribooksonline.com/blog/2014/11/18/intro-python-debugger/
+=======
+>>>>>>> e83af9f66243c585f01627296df4e6c435d67331
