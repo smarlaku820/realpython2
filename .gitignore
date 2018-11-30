@@ -5,3 +5,4 @@ venv/
 # ignore these *.py files
 #
 flask-blog/__pycache__/
+flask-taskr1/__pycache__/
