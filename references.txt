@@ -1,0 +1,20 @@
+Introduction to Templating Formats
+https://wiki.python.org/moin/Templating
+
+Primer on Jinja2 template engine
+URL :- https://realpython.com/primer-on-jinja-templating/
+Add on :- http://jinja.pocoo.org/docs/2.10/templates/#builtin-filters
+
+On Decorators and Wraps
+URL :- https://www.journaldev.com/17550/python-functools
+Add on :- https://www.blog.pythonlibrary.org/2016/02/17/python-functools-wraps/
+
+Understanding App and Request Contexts
+https://stackoverflow.com/questions/15083967/when-should-flask-g-be-used
+
+
+Python Debugging
+URL :-
+https://pyvideo.org/pycon-us-2014/in-depth-pdb.html
+https://www.youtube.com/watch?v=bZZTeKPRSLQ
+https://www.safaribooksonline.com/blog/2014/11/18/intro-python-debugger/
