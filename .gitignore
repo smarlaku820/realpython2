@@ -6,3 +6,4 @@ venv/
 #
 flask-blog/__pycache__/
 flask-taskr1/__pycache__/
+flask-taskr2/__pycache__/
